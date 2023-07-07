@@ -1,0 +1,11 @@
+S:\Code\LearningRust\guessing_game\target\debug\deps\ppv_lite86-9ecaf12c06f6fd7e.rmeta: C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\lib.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\soft.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\types.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\x86_64\mod.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\x86_64\sse2.rs
+
+S:\Code\LearningRust\guessing_game\target\debug\deps\libppv_lite86-9ecaf12c06f6fd7e.rlib: C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\lib.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\soft.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\types.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\x86_64\mod.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\x86_64\sse2.rs
+
+S:\Code\LearningRust\guessing_game\target\debug\deps\ppv_lite86-9ecaf12c06f6fd7e.d: C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\lib.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\soft.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\types.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\x86_64\mod.rs C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\x86_64\sse2.rs
+
+C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\lib.rs:
+C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\soft.rs:
+C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\types.rs:
+C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\x86_64\mod.rs:
+C:\Users\Jeremiah\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.16\src\x86_64\sse2.rs:
